@@ -67,14 +67,16 @@ bowlingBall.rollsDownLane();
 bowlingBall.knocksPinsDown();
 //  action 3: the bowling ball goes in the gutter
 bowlingBall.goesInGutter();
+
 //  3)
-//  Noun: guitar player
-//  action 1: the guitar player makes a chord
-guitarPlayer.makesChord();
-//  action 2: the guitar player plays a note
-guitarPlayer.playsNote();
-//  action 3: the guitar player plays a song
-guitarPlayer.playsSong();
+//  Noun: olympic gymnist
+//  action 1: the olypmic gymnist practices routine 
+olympicGymnist.practiceRoutine();
+//  action 2: the olypmic gymnist stretches legs
+olympicGymnist.stretchLegs();
+//  action 3: the olypmic gymnist wins a medal
+olympicGymnist.winMedal();
+
 //  4)
 //  Noun: weight lifter
 //  action 1: the weight lifter does curls
@@ -83,6 +85,7 @@ weightLifter.curls();
 weightLifter.squats();
 //  action 3: the weight lifter bench presses
 weightLifter.benchPresses();
+
 //  5)
 //  Noun: tiger
 //  action 1: the tiger hunts
@@ -91,6 +94,7 @@ tiger.hunt();
 tiger.growl();
 //  action 3: the tiger sleeps
 tiger.sleep();
+
 //  6)
 //  Noun: barber
 //  action 1: the barber cuts hair
@@ -99,6 +103,7 @@ barber.cutHair();
 barber.shavesBeard();
 //  action 3: the barber combs hair
 barber.combHair();
+
 //  7)
 //  Noun: mascot
 //  action 1: the mascot dunks a ball
@@ -107,6 +112,7 @@ mascot.dunkBall();
 mascot.flip();
 //  action 3: the mascot makes a joke
 mascot.joke();
+
 //  8)
 //  Noun: chef
 //  action 1: the chef cooks a steak
@@ -115,6 +121,7 @@ chef.cookSteak();
 chef.washDishes();
 //  action 3: the chef yells
 chef.yell();
+
 //  9)
 //  Noun: politician
 //  action 1: the politician lies
@@ -123,6 +130,7 @@ politician.lie();
 politician.cheat();
 //  action 3: the politician steals
 politician.steal();
+
 //  10)
 //  Noun: airplane
 //  action 1: the airplane flies
