@@ -52,85 +52,93 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat fights
+cat.fight();
+//  action 2: the cat scratches
+cat.scratch();
+//  action 3: the cat meows
+cat.meow();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bowling ball
+//  action 1: the bowling ball rolls down the lane
+bowlingBall.rollsDownLane();
+//  action 2: the bowling ball knocks pins down
+bowlingBall.knocksPinsDown();
+//  action 3: the bowling ball goes in the gutter
+bowlingBall.goesInGutter();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: olympic gymnist
+//  action 1: the olypmic gymnist practices routine 
+olympicGymnist.practiceRoutine();
+//  action 2: the olypmic gymnist stretches legs
+olympicGymnist.stretchLegs();
+//  action 3: the olypmic gymnist wins a medal
+olympicGymnist.winMedal();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: weight lifter
+//  action 1: the weight lifter does curls
+weightLifter.curls();
+//  action 2: the weight lifter does squats
+weightLifter.squats();
+//  action 3: the weight lifter bench presses
+weightLifter.benchPresses();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: tiger
+//  action 1: the tiger hunts
+tiger.hunt();
+//  action 2: the tiger growls
+tiger.growl();
+//  action 3: the tiger sleeps
+tiger.sleep();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: barber
+//  action 1: the barber cuts hair
+barber.cutHair();
+//  action 2: the barber shaves a beard
+barber.shavesBeard();
+//  action 3: the barber combs hair
+barber.combHair();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: mascot
+//  action 1: the mascot dunks a ball
+mascot.dunkBall();
+//  action 2: the mascot does a flip
+mascot.flip();
+//  action 3: the mascot makes a joke
+mascot.joke();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: chef
+//  action 1: the chef cooks a steak
+chef.cookSteak();
+//  action 2: the chef washes dishes
+chef.washDishes();
+//  action 3: the chef yells
+chef.yell();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: politician
+//  action 1: the politician lies
+politician.lie();
+//  action 2: the politician cheats
+politician.cheat();
+//  action 3: the politician steals
+politician.steal();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: airplane
+//  action 1: the airplane flies
+airplane.fly();
+//  action 2: the airplane crashes
+airplane.crash();
+//  action 3: the airplane lands
+airplane.land();
 
 
 #endif
